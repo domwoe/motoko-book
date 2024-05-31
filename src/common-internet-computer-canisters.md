@@ -31,7 +31,7 @@ Open `.config/dfx/networks.json ` and change the `subnet_type` to system. The ne
     }
   },
   "ic": {
-    "providers": ["https://mainnet.dfinity.network"],
+    "providers": ["https://icp-api.io"],
     "type": "persistent"
   }
 }

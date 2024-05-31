@@ -61,7 +61,7 @@ To configure the local and mainnet networks used by `dfx` create a `networks.jso
     }
   },
   "ic": {
-    "providers": ["https://mainnet.dfinity.network"],
+    "providers": ["https://icp-api.io"],
     "type": "persistent"
   }
 }
